@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "MaPolice";
+    src: url("../fonts/Redaction-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "MaPolice1";
+    src: url("../fonts/Redaction-Bold.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "MaPolice2";
+    src: url("../fonts/Redaction-Italic.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+body {
+    font-family: "MaPolice", sans-serif;
+}
